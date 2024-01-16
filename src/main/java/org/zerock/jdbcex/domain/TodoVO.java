@@ -6,7 +6,7 @@ import java.time.LocalDate;
 
 //lombok 사용
 @Builder
-@Getter
+@Getter //vo를 통해 자료를 끄집어냄
 @ToString
 @NoArgsConstructor
 @AllArgsConstructor

@@ -13,7 +13,7 @@ import java.time.LocalDate;
 @AllArgsConstructor
 
 public class TodoDTO {
-
+    //변수 선언
     private Long tno;
 
     private String title;
